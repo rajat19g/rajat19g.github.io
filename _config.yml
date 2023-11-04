@@ -1,5 +1,9 @@
 title:   Rajat Gupta
 logo: /imgs/profile.png
-#description: text below image
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  4+ years of Machine Learning Engineer and Data Scientist experience in building predictive models for Media Fact Checking, Energy, and Finance Domain.
+  Coupled with 3.5 years as a Full Stack developer. Possess Masters Degree in Data Science from Queen Mary University of London.
+  <br><br>
+  <a href="https://www.linkedin.com/in/rajat-gupta-a5704567/">View My LinkedIn Profile</a>
 show_downloads: false
 theme: jekyll-theme-minimal
