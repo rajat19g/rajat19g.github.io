@@ -19,12 +19,20 @@
 **Data Scientist @ Voltaware (_June 2018 - August 2019_)**
 - Built ML models to track consumer energy use down to the appliance level
 
+**Full Stack Developer @ Infosys (_Feb 2014 - August 2017_)**
+- Worked on projects including development of microservices using Spring Boot and Frontend using AngularJs across Retail domain
+
 ## Projects
 ### Top K Resumes
 - Resume Parser -> Developed using LlamaIndex with finetuned LLama 13b quantized model
 - Matcher -> Working on finetuning the final pipeline
 
 ### Auto Fact Checking
-- Website Credibility -> A Hierarchial pipeline of multiple models to classify website trustworthiness based on its content,inlinks and outlinks,infrastructure and authors
-- Toxic Content Classification - A transformer based solution to identify harmful content.
-- 
+- Website Credibility -> A Hierarchial pipeline of multiple models to classify website trustworthiness based on the content,inlinks and outlinks,infrastructure and authors reliability
+- Toxic Content Classification -> A Roberta based solution to identify harmful content.
+- Claim Extraction and Evidence Retrieval with Elastic Search indexing and Query Building
+- Topic Modeling -> Built hierarchical clustering pipeline for social media content using GSDMM
+- Inauthentic Coordinated Behaviour -> Detected communities of inauthentic accounts spreading propaganda on social media platforms
+- Containerized and Maintained the batch and near real-time inference applications
+  
+  
