@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, NoSQL, Pytorch, Scikit-Learn, HuggingFace, LLMs, GCP, Docker, MlFlow
 
-## Work Experience
+## Work Experience(8 yrs)
 **Data Consultant @ BRG Infotech (_August 2023 - Present_)**
 - Building a pipeline for filtering top k resumes on the basis of job descriptions.
 
@@ -34,5 +34,9 @@
 - Topic Modeling -> Built hierarchical clustering pipeline for social media content using GSDMM
 - Inauthentic Coordinated Behaviour -> Detected communities of inauthentic accounts spreading propaganda on social media platforms
 - Containerized and Maintained the batch and near real-time inference applications
+
+### Appliance Energy Consumption prediction
+- Data Cleaning -> Applied complex cleaning methods to clear noise from time series electrical data
+- Signal Clustering - Used Ensemble of clustering algorithms to detect and measure power consumption of different appliances
   
   
